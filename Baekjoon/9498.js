@@ -6,7 +6,7 @@ const score = parseInt(input[0]);
 
 if(score>= 90 && score<=100)
     console.log('A');
-else if(score>= 80 && score<=90)
+else if(score>= 80 && score<=89)
     console.log('B');
 else if(score>= 70 && score<=79)
     console.log('C');
