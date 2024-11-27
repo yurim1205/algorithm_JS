@@ -11,7 +11,7 @@ const input = require("fs")
 let totalPrice = 0; // 총 금액
 let sum = parseInt(input[0]); // 총합
 
-for (let i = 2; i < input.length; i++) {  // i < input.length로 수정
+for (let i = 2; i < input.length; i++) {
   const [x, num] = input[i].split(' ').map(Number);
   // map(Number): 배열의 요소를 숫자로 변환
 
