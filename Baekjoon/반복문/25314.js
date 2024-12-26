@@ -4,4 +4,5 @@ const input = require("fs")
 
   console.log("long ".repeat(input/4)+"int");
 
+  
   // 문제 풀이: 입력값을 4로 나눈 몫만큼 long을 출력하고, int를 하나 출력
