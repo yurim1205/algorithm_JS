@@ -9,3 +9,4 @@ const input = require("fs")
   const max = Math.max(...arr);
 
   console.log(min, max);
+  
