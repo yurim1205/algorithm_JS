@@ -11,3 +11,4 @@ const input = require("fs")
   console.log(result.join(' '));
   // join(' '): 배열의 각 요소를 공백으로 나눠 문자열로 합침
   // [1, 2] -> "1 2"
+  
