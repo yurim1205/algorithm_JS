@@ -11,4 +11,5 @@ const count = arr.filter(num => num  === ansNum).length;
 // input[2]와 일치하는 값만 필터링하고, 새로운 배열로 만듦
 // length를 통해 input[2] 등장 횟수 세기
 
+
 console.log(count);
