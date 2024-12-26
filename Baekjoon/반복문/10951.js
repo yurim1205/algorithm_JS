@@ -9,3 +9,4 @@ const input = require("fs")
 
     console.log(Number(num[0]) + Number(num[1]));
   }
+  
