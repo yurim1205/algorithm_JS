@@ -13,3 +13,4 @@ const input = require("fs")
 
     console.log(`Case #${i}: ${num[0]} + ${num[1]} = ${result}`);
   }
+  
