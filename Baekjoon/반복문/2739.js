@@ -8,3 +8,4 @@ const input = require("fs")
     const result = num * i;
     console.log(`${num} * ${i} = ${result}`);
   }
+  
